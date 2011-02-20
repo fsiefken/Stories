@@ -3,6 +3,11 @@
 Stories, a collaborative storytelling app is a webapplication where people can collaborate on telling a story. 
 Each player takes care of one or more characters in the developing story.
 
+# Location
+
+Development is setup at [Heroku empty-summer-910](http://empty-summer-910.heroku.com/).
+
+
 # Content description
 
 The application is built on a default Rails3 directory structure.
